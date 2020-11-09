@@ -1,0 +1,37 @@
+﻿Brand,Category,Month,Score,Month_new
+A,Beverage (alcohol),score_Apr,13.956,Apr
+A,Beverage (alcohol),score_Aug,11.613,Aug
+A,Beverage (alcohol),score_Dec,11.566,Dec
+A,Beverage (alcohol),score_Feb,16.83,Feb
+A,Beverage (alcohol),score_Jan,19.476,Jan
+A,Beverage (alcohol),score_Jul,12.119,Jul
+A,Beverage (alcohol),score_Jun,12.66,Jun
+A,Beverage (alcohol),score_Mar,14.913,Mar
+A,Beverage (alcohol),score_May,13.234,May
+A,Beverage (alcohol),score_Nov,11.762,Nov
+A,Beverage (alcohol),score_Oct,11.968,Oct
+A,Beverage (alcohol),score_Sep,11.428,Sep
+B,Beverage (non-alcohol),score_Apr,23.945,Apr
+B,Beverage (non-alcohol),score_Aug,0,Aug
+B,Beverage (non-alcohol),score_Dec,0,Dec
+B,Beverage (non-alcohol),score_Feb,32.087,Feb
+B,Beverage (non-alcohol),score_Jan,37.894,Jan
+B,Beverage (non-alcohol),score_Jul,0,Jul
+B,Beverage (non-alcohol),score_Jun,0,Jun
+B,Beverage (non-alcohol),score_Mar,30.866,Mar
+B,Beverage (non-alcohol),score_May,22.725,May
+B,Beverage (non-alcohol),score_Nov,0,Nov
+B,Beverage (non-alcohol),score_Oct,0,Oct
+B,Beverage (non-alcohol),score_Sep,0,Sep
+C,Cosmetics,score_Apr,27.462,Apr
+C,Cosmetics,score_Aug,31.653,Aug
+C,Cosmetics,score_Dec,27.072,Dec
+C,Cosmetics,score_Feb,30.569,Feb
+C,Cosmetics,score_Jan,39.023,Jan
+C,Cosmetics,score_Jul,33.674,Jul
+C,Cosmetics,score_Jun,33.12,Jun
+C,Cosmetics,score_Mar,27.922,Mar
+C,Cosmetics,score_May,27.058,May
+C,Cosmetics,score_Nov,28.692,Nov
+C,Cosmetics,score_Oct,32.728,Oct
+C,Cosmetics,score_Sep,26.78,Sep
